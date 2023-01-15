@@ -1,4 +1,10 @@
 ﻿using System.Text;
+using System.IO;
+using System.Linq;
+using System;
+using System.Text.RegularExpressions;
+ 
+ 
 using DesafioProjetoHospedagem.Models;
 
 Console.OutputEncoding = Encoding.UTF8;
